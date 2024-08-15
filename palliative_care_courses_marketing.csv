@@ -1,0 +1,101 @@
+Course ID,Course Name,Course Type,Course Duration (weeks),Course Price (USD),Target Audience,Course Format,Start Date,Enrollment Deadline,Instructor Name,Instructor Rating,Marketing Channel,Marketing Budget (USD),Number of Enrollments,Conversion Rate (%),Location,Course Rating,Alumni Reviews,Certification Offered,Campus Partner
+C-001,Public Health Fundamentals,Public Health,5,1286,Healthcare Professionals,Hybrid,9/7/2024,11/25/2024,Instructor A,4.68,Social Media,8470,20,19.15,Region 5,4.26,4.56,Yes,Partner B
+C-002,Nursing Fundamentals,Caregiving,9,1843,Healthcare Professionals,Offline,5/10/2024,3/23/2024,Instructor B,3.1,Paid Ads,9266,139,3.94,Region 5,3.52,3.08,No,Partner D
+C-003,Hospice Care Fundamentals,Public Health,9,1056,Campus Partners,Online,10/7/2024,7/3/2024,Instructor C,3.04,Paid Ads,1036,128,12.84,Region 6,4.27,3.96,Yes,Partner B
+C-004,Nursing Fundamentals,Pediatric Palliative Care,14,1804,Caregivers,Online,10/5/2024,12/18/2024,Instructor D,4.39,Paid Ads,2125,149,10.01,Region 7,4.08,3.21,Yes,Partner D
+C-005,Nursing Fundamentals,Caregiving,18,260,Students,Online,3/23/2024,12/31/2024,Instructor E,4.99,SEO,8473,29,7.54,Region 8,4.56,3.48,No,Partner A
+C-006,Pediatric Palliative Care Fundamentals,Nursing,19,1703,Students,Hybrid,11/11/2024,7/12/2024,Instructor F,4.79,Social Media,9077,14,7.68,Region 8,3.21,4.97,No,Partner B
+C-007,Hospice Care Fundamentals,Hospice Care,19,900,Campus Partners,Offline,2/15/2024,6/26/2024,Instructor G,4.15,Paid Ads,8570,46,8.84,Region 2,4.52,3.28,No,Partner D
+C-008,Hospice Care Fundamentals,Public Health,4,497,Students,Online,12/9/2024,10/17/2024,Instructor H,4.83,Social Media,9166,175,14.39,Region 9,4.08,4,Yes,Partner C
+C-009,Hospice Care Fundamentals,Hospice Care,12,1400,Healthcare Professionals,Hybrid,10/26/2024,8/14/2024,Instructor I,3.01,Social Media,9109,146,12.37,Region 7,4.93,4.24,Yes,Partner C
+C-010,Nursing Fundamentals,Hospice Care,15,915,Caregivers,Offline,12/17/2024,6/20/2024,Instructor J,4.95,SEO,6990,62,9.73,Region 4,3.68,4.4,No,Partner B
+C-011,Public Health Fundamentals,Caregiving,14,1627,Social Workers,Hybrid,6/7/2024,3/12/2024,Instructor K,3.98,Paid Ads,4100,181,2.44,Region 4,4.27,4.12,No,Partner B
+C-012,Hospice Care Fundamentals,Hospice Care,9,1515,Students,Online,8/10/2024,4/6/2024,Instructor L,4.45,Paid Ads,7283,108,2.48,Region 8,4.86,3.02,Yes,Partner A
+C-013,Nursing Fundamentals,Nursing,19,1258,Healthcare Professionals,Online,9/18/2024,7/28/2024,Instructor M,4.64,Social Media,9646,95,1.04,Region 4,3.21,3.65,Yes,Partner B
+C-014,Pediatric Palliative Care Fundamentals,Hospice Care,16,1318,Social Workers,Online,11/26/2024,3/7/2024,Instructor N,4.44,Email,5471,117,19.39,Region 6,4.87,4.04,No,Partner A
+C-015,Public Health Fundamentals,Caregiving,6,500,Caregivers,Hybrid,2/5/2024,3/3/2024,Instructor O,4.07,SEO,1705,33,1.1,Region 5,4.38,3.18,No,Partner A
+C-016,Pediatric Palliative Care Fundamentals,Nursing,7,739,Social Workers,Hybrid,5/6/2024,3/16/2024,Instructor P,3.95,SEO,2490,90,2.96,Region 3,3.14,3.7,Yes,Partner C
+C-017,Public Health Fundamentals,Pediatric Palliative Care,15,1156,Healthcare Professionals,Online,3/8/2024,12/19/2024,Instructor Q,4.68,SEO,5799,167,6.98,Region 2,3.6,3.07,No,Partner C
+C-018,Nursing Fundamentals,Hospice Care,14,787,Social Workers,Hybrid,1/22/2024,3/21/2024,Instructor R,3.41,SEO,4072,129,16.34,Region 9,4.42,3.16,Yes,Partner D
+C-019,Caregiving Fundamentals,Caregiving,7,559,Campus Partners,Online,4/17/2024,10/6/2024,Instructor S,4.94,Paid Ads,6475,68,19.28,Region 9,3.13,3.79,Yes,Partner C
+C-020,Public Health Fundamentals,Pediatric Palliative Care,6,1054,Social Workers,Online,7/25/2024,2/23/2024,Instructor T,4.42,Paid Ads,6820,137,16.01,Region 1,4.16,3.27,Yes,Partner C
+C-021,Pediatric Palliative Care Fundamentals,Pediatric Palliative Care,13,569,Students,Offline,4/4/2024,1/22/2025,Instructor U,3.4,Email,4880,123,14.12,Region 3,3.69,4.14,Yes,Partner B
+C-022,Nursing Fundamentals,Public Health,6,1498,Students,Hybrid,6/28/2024,11/18/2024,Instructor V,4.47,SEO,5257,124,10.9,Region 8,4.24,4.38,No,Partner C
+C-023,Public Health Fundamentals,Nursing,18,1145,Campus Partners,Online,3/12/2024,2/4/2024,Instructor W,4.06,SEO,3213,23,2.65,Region 6,3.09,4.6,No,Partner D
+C-024,Caregiving Fundamentals,Hospice Care,6,849,Healthcare Professionals,Online,6/7/2024,5/10/2024,Instructor X,4.41,Social Media,6088,18,19.21,Region 5,4.74,3.4,Yes,Partner B
+C-025,Caregiving Fundamentals,Caregiving,7,1793,Students,Hybrid,11/10/2024,9/16/2024,Instructor Y,4.54,Paid Ads,1466,49,15.41,Region 5,4.95,3.33,Yes,Partner D
+C-026,Hospice Care Fundamentals,Public Health,19,137,Caregivers,Offline,10/19/2024,11/16/2024,Instructor Z,3.17,SEO,5444,34,13.14,Region 6,4.94,3.21,Yes,Partner C
+C-027,Hospice Care Fundamentals,Nursing,10,329,Students,Offline,7/3/2024,1/19/2025,Instructor [,4.01,Email,3932,112,15.42,Region 7,4.5,4.27,Yes,Partner D
+C-028,Pediatric Palliative Care Fundamentals,Public Health,7,1488,Students,Online,2/28/2024,9/4/2024,Instructor \,4.86,Email,1188,31,14.76,Region 1,3.26,4.41,Yes,Partner B
+C-029,Public Health Fundamentals,Nursing,12,662,Healthcare Professionals,Hybrid,10/20/2024,3/7/2024,Instructor ],3.64,Paid Ads,4743,13,13.11,Region 9,4.52,3.06,No,Partner A
+C-030,Public Health Fundamentals,Nursing,4,537,Social Workers,Offline,12/8/2024,6/1/2024,Instructor ^,4.19,Email,4201,163,19.63,Region 3,3.05,4.87,No,Partner D
+C-031,Hospice Care Fundamentals,Hospice Care,11,1899,Students,Hybrid,9/7/2024,12/11/2024,Instructor _,3.74,Email,9033,195,18.16,Region 4,3.04,3.1,No,Partner D
+C-032,Public Health Fundamentals,Nursing,19,1406,Campus Partners,Hybrid,1/3/2024,12/19/2024,Instructor `,3.91,Paid Ads,5682,38,13.29,Region 1,3.65,4.08,No,Partner B
+C-033,Public Health Fundamentals,Public Health,10,126,Social Workers,Online,12/25/2024,10/23/2024,Instructor a,4.1,SEO,7204,118,14.17,Region 3,3.98,4.42,Yes,Partner B
+C-034,Caregiving Fundamentals,Nursing,5,325,Caregivers,Offline,12/17/2024,8/15/2024,Instructor b,4.1,SEO,4922,107,1.98,Region 2,4.54,4.74,Yes,Partner D
+C-035,Hospice Care Fundamentals,Hospice Care,11,1400,Healthcare Professionals,Online,9/24/2024,12/22/2024,Instructor c,3.4,Email,2259,46,13.73,Region 2,4.37,4.43,Yes,Partner C
+C-036,Nursing Fundamentals,Hospice Care,4,897,Caregivers,Offline,1/6/2024,9/3/2024,Instructor d,4.37,Email,9681,84,1.84,Region 1,3.89,4.6,Yes,Partner D
+C-037,Hospice Care Fundamentals,Public Health,14,1732,Social Workers,Offline,5/6/2024,9/3/2024,Instructor e,3.18,SEO,2982,79,12.18,Region 8,3.55,3.68,Yes,Partner B
+C-038,Nursing Fundamentals,Pediatric Palliative Care,15,383,Social Workers,Offline,10/12/2024,9/24/2024,Instructor f,3.28,Paid Ads,8558,155,19.99,Region 3,4.99,4.63,No,Partner A
+C-039,Caregiving Fundamentals,Pediatric Palliative Care,12,978,Social Workers,Offline,5/16/2024,4/2/2024,Instructor g,3.01,Email,1451,137,11.56,Region 3,3.85,3.16,Yes,Partner A
+C-040,Pediatric Palliative Care Fundamentals,Nursing,12,1059,Caregivers,Offline,6/21/2024,12/18/2024,Instructor h,3.23,Social Media,9414,94,9.99,Region 6,3.9,4.79,No,Partner C
+C-041,Public Health Fundamentals,Caregiving,5,1604,Social Workers,Hybrid,11/28/2024,11/18/2024,Instructor i,3.95,Paid Ads,2579,51,6.94,Region 8,3.33,4.1,No,Partner D
+C-042,Caregiving Fundamentals,Nursing,10,552,Caregivers,Online,5/4/2024,4/20/2024,Instructor j,4.21,Email,3217,109,3.29,Region 9,4.59,4.63,No,Partner A
+C-043,Public Health Fundamentals,Public Health,18,1119,Social Workers,Hybrid,3/19/2024,6/17/2024,Instructor k,4.59,Email,5024,50,14.89,Region 9,4.39,3.9,No,Partner D
+C-044,Pediatric Palliative Care Fundamentals,Public Health,17,1952,Campus Partners,Offline,4/25/2024,1/9/2025,Instructor l,3.21,Social Media,8977,175,4.66,Region 4,3.44,4.29,Yes,Partner B
+C-045,Pediatric Palliative Care Fundamentals,Public Health,13,915,Social Workers,Online,2/15/2024,7/21/2024,Instructor m,4.7,Social Media,7811,43,3.19,Region 5,3.16,4.05,No,Partner A
+C-046,Caregiving Fundamentals,Public Health,6,758,Caregivers,Offline,9/17/2024,7/1/2024,Instructor n,4.49,SEO,7686,26,9.01,Region 2,4.36,4.46,No,Partner C
+C-047,Pediatric Palliative Care Fundamentals,Public Health,10,1639,Students,Online,1/21/2024,6/8/2024,Instructor o,3.82,Paid Ads,2565,174,16.11,Region 9,4.31,3.16,No,Partner B
+C-048,Nursing Fundamentals,Hospice Care,15,646,Social Workers,Hybrid,6/22/2024,1/25/2025,Instructor p,4.87,Paid Ads,1268,162,15.16,Region 8,3.55,3.12,Yes,Partner C
+C-049,Pediatric Palliative Care Fundamentals,Pediatric Palliative Care,19,1315,Students,Online,3/16/2024,3/18/2024,Instructor q,4.98,SEO,5990,131,2.04,Region 3,4.9,3.49,Yes,Partner B
+C-050,Public Health Fundamentals,Public Health,13,1172,Campus Partners,Online,7/25/2024,11/12/2024,Instructor r,3.41,Paid Ads,7145,85,9.65,Region 9,3.3,3.32,Yes,Partner A
+C-051,Public Health Fundamentals,Caregiving,19,1635,Healthcare Professionals,Online,11/12/2024,12/9/2024,Instructor s,3.76,Paid Ads,5583,96,10.93,Region 3,3.86,4.74,No,Partner C
+C-052,Public Health Fundamentals,Caregiving,12,116,Campus Partners,Online,10/16/2024,11/24/2024,Instructor t,4.85,Paid Ads,5732,126,13.25,Region 9,4.89,3.44,No,Partner C
+C-053,Public Health Fundamentals,Caregiving,7,1295,Social Workers,Online,8/6/2024,10/22/2024,Instructor u,4.44,Paid Ads,6297,115,13.35,Region 2,3.84,4.95,Yes,Partner B
+C-054,Nursing Fundamentals,Caregiving,15,1343,Students,Offline,12/24/2024,9/10/2024,Instructor v,3.1,Paid Ads,9638,95,7.93,Region 9,4.28,3.67,No,Partner C
+C-055,Hospice Care Fundamentals,Hospice Care,4,257,Students,Online,12/21/2024,2/25/2024,Instructor w,4.56,Social Media,5426,36,11.65,Region 8,3.8,3.36,Yes,Partner B
+C-056,Caregiving Fundamentals,Caregiving,5,576,Caregivers,Online,8/26/2024,5/1/2024,Instructor x,4.66,Paid Ads,6516,66,10.14,Region 9,3.55,4.58,Yes,Partner B
+C-057,Public Health Fundamentals,Public Health,4,1169,Students,Hybrid,12/4/2024,9/16/2024,Instructor y,4.5,Social Media,3835,40,17.81,Region 5,4.97,4.32,No,Partner B
+C-058,Pediatric Palliative Care Fundamentals,Nursing,19,1496,Caregivers,Online,10/8/2024,4/19/2024,Instructor z,4.6,Paid Ads,8538,143,11.08,Region 2,3.82,4,No,Partner B
+C-059,Public Health Fundamentals,Caregiving,17,617,Healthcare Professionals,Hybrid,10/28/2024,9/21/2024,Instructor {,4.65,SEO,5373,177,9.38,Region 8,4.79,4.11,No,Partner A
+C-060,Pediatric Palliative Care Fundamentals,Hospice Care,15,198,Social Workers,Offline,2/28/2024,11/27/2024,Instructor |,3.37,Email,1981,107,8.69,Region 6,3.46,4.44,No,Partner B
+C-061,Pediatric Palliative Care Fundamentals,Hospice Care,8,1868,Caregivers,Online,12/5/2024,8/13/2024,Instructor },3.47,Social Media,6805,21,11.88,Region 8,3.43,3.46,Yes,Partner D
+C-062,Public Health Fundamentals,Caregiving,8,1160,Healthcare Professionals,Hybrid,9/4/2024,9/1/2024,Instructor ~,4.27,Paid Ads,3951,62,16.28,Region 5,3.06,4.99,Yes,Partner C
+C-063,Nursing Fundamentals,Nursing,19,379,Students,Hybrid,11/22/2024,11/13/2024,Instructor ,4.82,SEO,554,147,11.23,Region 2,4.3,4.95,Yes,Partner D
+C-064,Pediatric Palliative Care Fundamentals,Caregiving,14,1472,Students,Offline,1/9/2024,12/24/2024,Instructor ,3.63,Email,8143,182,13.57,Region 6,3.74,4.3,Yes,Partner A
+C-065,Pediatric Palliative Care Fundamentals,Hospice Care,10,596,Healthcare Professionals,Online,1/21/2024,4/6/2024,Instructor ,4.18,Social Media,3962,154,15.02,Region 5,4.73,3.4,Yes,Partner D
+C-066,Public Health Fundamentals,Pediatric Palliative Care,12,401,Students,Online,4/13/2024,4/14/2024,Instructor ,4.37,Email,1332,163,10.88,Region 5,3.95,4.36,No,Partner C
+C-067,Pediatric Palliative Care Fundamentals,Public Health,12,280,Healthcare Professionals,Hybrid,12/16/2024,8/13/2024,Instructor ,3.9,SEO,6454,199,9.11,Region 1,4.94,3.14,Yes,Partner D
+C-068,Pediatric Palliative Care Fundamentals,Hospice Care,6,706,Caregivers,Online,3/6/2024,12/15/2024,Instructor ,4.43,Social Media,9019,131,17.66,Region 2,3.37,3.06,Yes,Partner A
+C-069,Public Health Fundamentals,Caregiving,6,1222,Caregivers,Hybrid,2/19/2024,1/12/2025,Instructor ,4.8,Email,7721,55,8.93,Region 8,4.74,3.52,Yes,Partner B
+C-070,Public Health Fundamentals,Public Health,19,799,Healthcare Professionals,Online,5/15/2024,3/27/2024,Instructor ,4.25,Paid Ads,3810,73,9.78,Region 3,4.55,3.93,No,Partner D
+C-071,Caregiving Fundamentals,Caregiving,19,1092,Caregivers,Hybrid,9/2/2024,7/3/2024,Instructor ,4.08,Social Media,3800,139,19.82,Region 3,4.54,4.74,No,Partner A
+C-072,Nursing Fundamentals,Caregiving,6,1239,Caregivers,Online,10/24/2024,4/14/2024,Instructor ,3.88,Email,7222,63,1,Region 8,4.69,4.45,No,Partner A
+C-073,Nursing Fundamentals,Pediatric Palliative Care,7,290,Caregivers,Offline,2/27/2024,10/23/2024,Instructor ,4.15,SEO,7718,116,4.52,Region 8,4.52,4.49,No,Partner C
+C-074,Pediatric Palliative Care Fundamentals,Public Health,11,352,Campus Partners,Online,5/23/2024,6/27/2024,Instructor ,3.71,SEO,8276,60,8.3,Region 2,4.25,3.85,Yes,Partner C
+C-075,Nursing Fundamentals,Public Health,9,1080,Social Workers,Online,8/1/2024,11/6/2024,Instructor ,3.78,Social Media,4175,190,18.72,Region 8,3.26,3.69,Yes,Partner D
+C-076,Pediatric Palliative Care Fundamentals,Pediatric Palliative Care,11,1027,Students,Offline,6/1/2024,10/17/2024,Instructor ,4.06,Email,3554,45,2.33,Region 1,3.07,3.74,No,Partner B
+C-077,Caregiving Fundamentals,Hospice Care,4,1284,Campus Partners,Online,2/15/2024,8/21/2024,Instructor ,3.13,Social Media,8470,124,1.18,Region 6,4.84,4.98,No,Partner A
+C-078,Public Health Fundamentals,Caregiving,11,1379,Caregivers,Offline,1/11/2024,11/11/2024,Instructor ,3.46,Social Media,2643,35,2,Region 8,4.23,3.08,Yes,Partner D
+C-079,Public Health Fundamentals,Nursing,7,1446,Healthcare Professionals,Online,5/26/2024,10/17/2024,Instructor ,4.09,Email,5707,38,2.68,Region 3,4.59,4.73,Yes,Partner A
+C-080,Public Health Fundamentals,Caregiving,14,227,Caregivers,Hybrid,9/22/2024,5/25/2024,Instructor ,3.86,Email,3038,158,1.71,Region 8,3.96,4.16,No,Partner A
+C-081,Nursing Fundamentals,Caregiving,4,117,Social Workers,Hybrid,11/27/2024,5/10/2024,Instructor ,3.67,Paid Ads,5047,20,10.12,Region 1,3.23,3.88,No,Partner B
+C-082,Caregiving Fundamentals,Hospice Care,11,1916,Caregivers,Online,1/13/2024,4/8/2024,Instructor ,4.46,Email,6119,49,12.03,Region 9,3.25,4.45,No,Partner B
+C-083,Nursing Fundamentals,Caregiving,7,1858,Healthcare Professionals,Online,1/2/2024,3/16/2024,Instructor ,4.39,SEO,8856,20,6.16,Region 9,4.37,3.97,No,Partner D
+C-084,Nursing Fundamentals,Pediatric Palliative Care,9,665,Social Workers,Online,9/3/2024,5/15/2024,Instructor ,3.33,Social Media,7112,173,8.57,Region 5,3.86,4.75,Yes,Partner B
+C-085,Caregiving Fundamentals,Pediatric Palliative Care,11,669,Caregivers,Hybrid,1/21/2024,7/2/2024,Instructor ,4.76,Social Media,5505,122,2.74,Region 4,3.4,4.8,Yes,Partner B
+C-086,Caregiving Fundamentals,Public Health,7,1446,Social Workers,Online,7/6/2024,9/7/2024,Instructor ,3.99,SEO,1322,196,7.39,Region 6,3.98,3.84,Yes,Partner D
+C-087,Caregiving Fundamentals,Nursing,17,1995,Students,Hybrid,12/17/2024,2/11/2024,Instructor ,4.48,Email,1443,48,10.93,Region 7,3.13,3.55,No,Partner B
+C-088,Caregiving Fundamentals,Caregiving,6,785,Students,Offline,5/5/2024,4/9/2024,Instructor ,4.15,SEO,6650,63,14.91,Region 5,4.16,4.18,No,Partner C
+C-089,Public Health Fundamentals,Caregiving,19,1915,Caregivers,Hybrid,6/3/2024,10/5/2024,Instructor ,5,SEO,4925,107,1.06,Region 9,3.54,4.82,Yes,Partner A
+C-090,Hospice Care Fundamentals,Hospice Care,17,725,Social Workers,Hybrid,5/23/2024,7/20/2024,Instructor ,4.5,Paid Ads,9466,64,9.88,Region 3,4.6,3.42,Yes,Partner A
+C-091,Hospice Care Fundamentals,Pediatric Palliative Care,12,1411,Healthcare Professionals,Offline,5/21/2024,11/1/2024,Instructor ,4.41,SEO,2698,120,6.64,Region 7,3.62,4.25,Yes,Partner A
+C-092,Caregiving Fundamentals,Nursing,6,953,Caregivers,Hybrid,5/10/2024,12/24/2024,Instructor ,4.56,Social Media,4742,161,17.2,Region 5,3.91,4.26,Yes,Partner A
+C-093,Hospice Care Fundamentals,Public Health,12,1786,Students,Online,10/19/2024,12/13/2024,Instructor ,3.29,SEO,4195,159,14.6,Region 7,3.02,4.47,No,Partner D
+C-094,Hospice Care Fundamentals,Pediatric Palliative Care,16,1061,Students,Online,1/21/2024,7/5/2024,Instructor ,3.41,Social Media,3952,78,12.19,Region 2,3.14,3.26,Yes,Partner A
+C-095,Caregiving Fundamentals,Public Health,5,1762,Caregivers,Hybrid,9/14/2024,10/1/2024,Instructor ,4.43,Social Media,9606,65,6.27,Region 4,3.78,4.43,Yes,Partner A
+C-096,Hospice Care Fundamentals,Hospice Care,19,254,Social Workers,Online,1/19/2024,6/21/2024,Instructor  ,3.99,Social Media,1808,42,18.3,Region 2,3.96,4.82,Yes,Partner A
+C-097,Nursing Fundamentals,Hospice Care,17,589,Students,Hybrid,4/1/2024,6/5/2024,Instructor ¡,4.51,Email,4677,45,1.86,Region 7,4.2,3.36,Yes,Partner A
+C-098,Pediatric Palliative Care Fundamentals,Caregiving,5,1509,Social Workers,Online,1/8/2024,7/23/2024,Instructor ¢,3.21,Paid Ads,9205,157,3.08,Region 2,3.58,3.48,Yes,Partner C
+C-099,Pediatric Palliative Care Fundamentals,Nursing,5,884,Students,Online,2/28/2024,5/11/2024,Instructor £,4.07,Social Media,7352,90,8.44,Region 1,4.39,4.94,Yes,Partner A
+C-100,Caregiving Fundamentals,Public Health,9,1227,Students,Hybrid,8/7/2024,9/22/2024,Instructor ¤,3.76,Social Media,6535,199,3.36,Region 9,4.72,3.36,Yes,Partner C
