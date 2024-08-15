@@ -1,4 +1,3 @@
-# PalliativeCareCourseTrends
 # Palliative Care Course Analysis
 
 ## Business Objective
